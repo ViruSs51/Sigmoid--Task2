@@ -1,4 +1,4 @@
-# Feetback
+# Feedback
 - Destul de bine e redata informatia - **scurt**, **clar** si **cuprinzator**! imi este interesant sa citesct, luand in considerare cat de rar eu citesc ceva carti 
 
 - ## OOP
